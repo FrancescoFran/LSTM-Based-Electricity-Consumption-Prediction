@@ -7,6 +7,10 @@
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-success">
 </p>
 
+<p align="center">
+  <img src="images/banner.svg" alt="Project Banner" width="70%">
+</p>
+
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
