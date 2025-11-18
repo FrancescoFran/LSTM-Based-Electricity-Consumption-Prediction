@@ -54,4 +54,8 @@ The goal is to provide a reliable system that predicts energy demand ahead of ti
 
 ## Usage
 
+---
+
+## Screenshots
+
 
