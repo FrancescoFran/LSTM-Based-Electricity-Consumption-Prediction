@@ -8,7 +8,7 @@
 </p>
 
 ## Table of Contents
-- [About](#-about)
+- [About](#-About)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
