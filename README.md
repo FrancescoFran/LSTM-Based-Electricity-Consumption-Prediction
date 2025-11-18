@@ -40,9 +40,9 @@ The goal is to provide a reliable system that predicts energy demand ahead of ti
 - **Deep Learning Forecasting Framework**
   Multiple LSTM architectures (stacked, dropout‑regularized, high‑capacity, long‑sequence models), TensorFlow dataset pipelines, evaluation metrics (MAE, RMSE, MAPE, SMAPE), prediction plots, error analysis, and model comparison.
 
-  ---
+---
 
-  ## Installation
+## Installation
 1. **Clone the repository**  
    git clone https://github.com/your-username/project-name.git
    cd project-name
