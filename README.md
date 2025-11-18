@@ -23,3 +23,5 @@
 ---
 
 ## About
+LSTM-Based-Electricity-Consumption-Prediction is a machine learning project designed to forecast future household electricity usage using Long Short‑Term Memory (LSTM) neural networks. Electricity consumption naturally varies due to daily routines, weekends, weather changes, and holidays. Traditional forecasting methods struggle with these irregular patterns—this project uses deep learning to model them more accurately.
+The goal is to provide a reliable system that predicts energy demand ahead of time, helping users better understand consumption behavior, optimize usage, and potentially reduce energy costs.
