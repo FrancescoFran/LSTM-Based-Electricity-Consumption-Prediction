@@ -30,8 +30,7 @@ The goal is to provide a reliable system that predicts energy demand ahead of ti
 
 ## Features
 
-- **Comprehensive Data Pipeline**
-  Automatic loading, cleaning, type conversion, datetime indexing, and exporting of processed datasets.
+- **Comprehensive Data Pipeline** / Automatic loading, cleaning, type conversion, datetime indexing, and exporting of processed datasets.
 
 - Advanced Exploratory Data AnalysisInteractive visualizations, consumption‑pattern analysis, temporal trend inspection, and PACF‑based time‑series diagnostics.
 
