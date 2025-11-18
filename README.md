@@ -65,7 +65,16 @@ A preprocessed CSV snapshot of the household_power_consumption dataset is availa
 ---
 
 ## Usage
-
+  1. Place CSV in `data/`.
+  2. Preprocess:  
+    - Interactive: Open and "Run All" for: notebooks/preprocessing.ipynb
+    - Headless (optional): jupyter nbconvert --to notebook --execute notebooks/preprocessing.ipynb --output notebooks/preprocessing_ran.ipynb --
+      ExecutePreprocessor.timeout=600
+  3. Train, Evaluate, Visualize results:
+     - Interactive: Open and "Run All" for: notebooks/lstm_training_evaluation.ipynb
+     - Headless (optional): jupyter nbconvert --to notebook --execute notebooks/lstm_training_evaluation.ipynb --output notebooks/lstm_training_ran.ipynb --
+       ExecutePreprocessor.timeout=3600
+     
 ---
 
 ## Screenshots
