@@ -78,7 +78,26 @@ A preprocessed CSV snapshot of the household_power_consumption dataset is availa
 ---
 
 ## Screenshots
-
+<p align="center">
+  <table style="width:100%; border-collapse:collapse;">
+    <tr>
+      <td style="width:50%; padding:0;">
+        <img src="images/Analysis_monthly.png" alt="Analysis_monthly" style="width:100%; display:block;" />
+      </td>
+      <td style="width:50%; padding:0;">
+        <img src="images/Analysis_daily.png" alt="Analysis_daily" style="width:100%; display:block;" />
+      </td>
+    </tr>
+    <tr>
+      <td style="width:50%; padding:0;">
+        <img src="images/Prediction.png" alt="Prediction" style="width:100%; display:block;" />
+      </td>
+      <td style="width:50%; padding:0;">
+        <img src="images/Error_analysis.png" alt="Error_analysis" style="width:100%; display:block;" />
+      </td>
+    </tr>
+  </table>
+</p>
 ---
 
 ## License
