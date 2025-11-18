@@ -98,6 +98,7 @@ A preprocessed CSV snapshot of the household_power_consumption dataset is availa
     </tr>
   </table>
 </p>
+
 ---
 
 ## License
