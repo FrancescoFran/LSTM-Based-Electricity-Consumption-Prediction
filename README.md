@@ -44,5 +44,5 @@ The goal is to provide a reliable system that predicts energy demand ahead of ti
 
 ## Installation
 1. **Clone the repository**  
-   git clone https://github.com/your-username/project-name.git](https://github.com/FrancescoFran/LSTM-Based-Electricity-Consumption-Prediction.git  
+   git clone https://github.com/FrancescoFran/LSTM-Based-Electricity-Consumption-Prediction.git  
    cd project-name
