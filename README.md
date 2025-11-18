@@ -20,6 +20,6 @@
 - [License](#-license)
 - [Support](#️-support)
 
---
+---
 
 ## About
