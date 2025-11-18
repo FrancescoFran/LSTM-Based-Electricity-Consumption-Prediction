@@ -19,3 +19,7 @@
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Support](#️-support)
+
+--
+
+## About
