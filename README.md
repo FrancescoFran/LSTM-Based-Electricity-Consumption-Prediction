@@ -17,10 +17,10 @@
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#️usage)
+- [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
-- [Support](#️support)
+- [Support](#support)
 
 ---
 
