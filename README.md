@@ -9,14 +9,14 @@
 
 ## Table of Contents
 - [About](#about)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#️-usage)
-- [Screenshots](#-screenshots)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Support](#️-support)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#️usage)
+- [Screenshots](#screenshots)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#️support)
 
 ---
 
