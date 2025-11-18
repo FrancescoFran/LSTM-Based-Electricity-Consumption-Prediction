@@ -36,6 +36,8 @@ The goal is to provide a reliable system that predicts energy demand ahead of ti
 - **Advanced Exploratory Data Analysis**  
   Interactive visualizations, consumption‑pattern analysis, temporal trend inspection, and PACF‑based time‑series diagnostics.
 
-- Robust Preprocessing & Feature EngineeringMissing‑value imputation, outlier handling, hourly resampling, correlation analysis, VIF checks, and creation of temporal features (Hour, DayOfWeek, IsWeekend).
+- **Robust Preprocessing & Feature Engineering**
+  Missing‑value imputation, outlier handling, hourly resampling, correlation analysis, VIF checks, and creation of temporal features (Hour, DayOfWeek, IsWeekend).
 
-- Deep Learning Forecasting FrameworkMultiple LSTM architectures (stacked, dropout‑regularized, high‑capacity, long‑sequence models), TensorFlow dataset pipelines, evaluation metrics (MAE, RMSE, MAPE, SMAPE), prediction plots, error analysis, and model comparison.
+- **Deep Learning Forecasting Framework**
+  Multiple LSTM architectures (stacked, dropout‑regularized, high‑capacity, long‑sequence models), TensorFlow dataset pipelines, evaluation metrics (MAE, RMSE, MAPE, SMAPE), prediction plots, error analysis, and model comparison.
