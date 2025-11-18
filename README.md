@@ -30,10 +30,11 @@ The goal is to provide a reliable system that predicts energy demand ahead of ti
 
 ## Features
 
-- 🚀 **Comprehensive Data Pipeline**  
+- **Comprehensive Data Pipeline**  
   Automatic loading, cleaning, type conversion, datetime indexing, and exporting of processed datasets.
 
-- Advanced Exploratory Data AnalysisInteractive visualizations, consumption‑pattern analysis, temporal trend inspection, and PACF‑based time‑series diagnostics.
+- **Advanced Exploratory Data Analysis**
+  Interactive visualizations, consumption‑pattern analysis, temporal trend inspection, and PACF‑based time‑series diagnostics.
 
 - Robust Preprocessing & Feature EngineeringMissing‑value imputation, outlier handling, hourly resampling, correlation analysis, VIF checks, and creation of temporal features (Hour, DayOfWeek, IsWeekend).
 
