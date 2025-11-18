@@ -61,4 +61,3 @@ The goal is to provide a reliable system that predicts energy demand ahead of ti
 
 ## License
 This project is under the **MIT License**.  
-Replace it with any license you prefer.
