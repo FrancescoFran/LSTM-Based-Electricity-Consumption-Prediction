@@ -10,8 +10,6 @@
 ## Table of Contents
 - [About](#-about)
 - [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Usage](#️-usage)
 - [Screenshots](#-screenshots)
