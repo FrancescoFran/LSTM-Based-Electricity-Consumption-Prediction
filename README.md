@@ -78,26 +78,36 @@ A preprocessed CSV snapshot of the household_power_consumption dataset is availa
 ---
 
 ## Screenshots
-<p align="center">
-  <table style="width:100%; border-collapse:collapse;">
-    <tr>
-      <td style="width:50%; padding:0;">
-        <img src="images/Analysis_monthly.png" alt="Analysis_monthly" style="width:100%; display:block;" />
-      </td>
-      <td style="width:50%; padding:0;">
-        <img src="images/Analysis_daily.png" alt="Analysis_daily" style="width:100%; display:block;" />
-      </td>
-    </tr>
-    <tr>
-      <td style="width:50%; padding:0;">
-        <img src="images/Prediction.png" alt="Prediction" style="width:100%; display:block;" />
-      </td>
-      <td style="width:50%; padding:0;">
-        <img src="images/Error_analysis.png" alt="Error_analysis" style="width:100%; display:block;" />
-      </td>
-    </tr>
-  </table>
-</p>
+<table style="width:100%; border-collapse:collapse; margin: 0 0 1rem 0;">
+  <tr>
+    <td style="width:50%; padding:0 0.5% 0 0.5%; vertical-align:top;">
+      <figure style="margin:0;">
+        <img src="images/Analysis_monthly.png" alt="Monthly analysis" style="width:100%; display:block;" />
+        <figcaption style="font-size:0.9rem; color:#444; margin-top:0.5rem;">Monthly consumption analysis — trends and seasonality.</figcaption>
+      </figure>
+    </td>
+    <td style="width:50%; padding:0 0.5% 0 0.5%; vertical-align:top;">
+      <figure style="margin:0;">
+        <img src="images/Analysis_daily.png" alt="Daily analysis" style="width:100%; display:block;" />
+        <figcaption style="font-size:0.9rem; color:#444; margin-top:0.5rem;">Daily consumption patterns.</figcaption>
+      </figure>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%; padding:0 0.5% 0 0.5%; vertical-align:top;">
+      <figure style="margin:0;">
+        <img src="images/Prediction.png" alt="Prediction results" style="width:100%; display:block;" />
+        <figcaption style="font-size:0.9rem; color:#444; margin-top:0.5rem;">Model predictions vs actual usage.</figcaption>
+      </figure>
+    </td>
+    <td style="width:50%; padding:0 0.5% 0 0.5%; vertical-align:top;">
+      <figure style="margin:0;">
+        <img src="images/Error_analysis.png" alt="Error analysis" style="width:100%; display:block;" />
+        <figcaption style="font-size:0.9rem; color:#444; margin-top:0.5rem;">Error analysis and residual diagnostics.</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
 
 ---
 
