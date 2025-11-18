@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="images/banner.svg" alt="Project Banner" width="70%">
+  <p align="center">
+  <img src="images/banner.svg" alt="Project Banner" width="100%">
+</p>
 </p>
 
 ## Table of Contents
