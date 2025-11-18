@@ -1,0 +1,46 @@
+<svg width="1920" height="500" viewBox="0 0 1920 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0A74DA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0EC6FF;stop-opacity:1" />
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background gradient -->
+  <rect width="1920" height="500" fill="url(#grad)" />
+
+  <!-- Title -->
+  <text x="50%" y="38%" text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="52" fill="white" font-weight="700">
+    LSTM Based Electricity Consumption Prediction
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="55%" text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="28" fill="white" opacity="0.85">
+    Deep Learning Time-Series Forecasting
+  </text>
+
+  <!-- Waveform placed UNDER the text -->
+  <path d="M 0 360
+           C 150 300, 300 420, 450 360
+           S 750 300, 900 360
+           S 1050 420, 1200 360
+           S 1500 300, 1650 360
+           S 1800 420, 1920 360"
+        stroke="#FFFFFF"
+        stroke-width="6"
+        fill="none"
+        filter="url(#glow)"
+        opacity="0.9"/>
+</svg>
