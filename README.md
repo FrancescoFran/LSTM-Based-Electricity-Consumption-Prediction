@@ -8,7 +8,7 @@
 </p>
 
 ## Table of Contents
-- [About](#-about)
+- [About](#about)
 - [Features](#-features)
 - [Installation](#-installation)
 - [Usage](#️-usage)
