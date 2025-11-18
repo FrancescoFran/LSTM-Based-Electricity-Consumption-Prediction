@@ -19,8 +19,6 @@
 - [Installation](#installation)
 - [Usage](#️usage)
 - [Screenshots](#screenshots)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [License](#license)
 - [Support](#️support)
 
@@ -112,4 +110,9 @@ A preprocessed CSV snapshot of the household_power_consumption dataset is availa
 ---
 
 ## License
-This project is under the **MIT License**.  
+This project is under the **MIT License**.
+
+---
+
+## Support
+If this project helped you, please consider giving it a star on GitHub — it really helps the project get noticed. ⭐
